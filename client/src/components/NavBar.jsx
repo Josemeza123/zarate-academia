@@ -16,7 +16,7 @@ const NavBar = () => {
           <Link to="/">Programas</Link>
         </li>
         <li>
-          <Link to="/Nosotros">Intranet</Link>
+          <Link to="/">Intranet</Link>
         </li>
       </ul>
     </>

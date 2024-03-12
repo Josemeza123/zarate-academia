@@ -93,7 +93,7 @@ const Footer = () => {
         </div>
 
         <div className="sb__footer-below">
-          <div className="sb__footer-copuright">
+          <div className="sb__footer-copyright">
             <p>@{new Date().getFullYear()} code all rigth reserved</p>
           </div>
           <div className="sb__footer-below-links">
