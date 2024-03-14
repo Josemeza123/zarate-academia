@@ -1,7 +1,9 @@
+import Slider from "../components/Slider";
+
 const InicioAcademia = () => {
   return (
     <>
-      <h1>Inicio</h1>
+      <Slider/>
     </>
   );
 };
