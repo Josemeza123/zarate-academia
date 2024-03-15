@@ -2,7 +2,7 @@
     width: 95%;
     /* max-width: 900px; */
     margin: auto;
-    overflow: hidden;
+    /* overflow: hidden; */
     position: relative;
 }
 
@@ -10,6 +10,7 @@
     display: flex;
     width: 400%;
     height: 400px;
+    margin-left: -100%;
 }
 
 .slider__section {
